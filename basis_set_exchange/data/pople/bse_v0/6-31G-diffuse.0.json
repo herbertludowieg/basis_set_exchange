@@ -423,7 +423,9 @@
       ]
     },
     "19": {
-      "references": [],
+      "references": [
+        "blaudeau1997a"
+      ],
       "electron_shells": [
         {
           "function_type": "gto",
@@ -447,7 +449,9 @@
       ]
     },
     "20": {
-      "references": [],
+      "references": [
+        "blaudeau1997a"
+      ],
       "electron_shells": [
         {
           "function_type": "gto",
