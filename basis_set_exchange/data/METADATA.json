@@ -3,7 +3,7 @@
     "display_name": "2ZaPa-NR",
     "other_names": [],
     "description": "2ZaPa-NR",
-    "latest_version": "0",
+    "latest_version": "1",
     "basename": "2ZaPa-NR",
     "relpath": "",
     "family": "ranasinghe",
@@ -17,6 +17,30 @@
       "0": {
         "file_relpath": "2ZaPa-NR.0.table.json",
         "revdesc": "Data from the original Basis Set Exchange",
+        "elements": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      "1": {
+        "file_relpath": "2ZaPa-NR.1.table.json",
+        "revdesc": "Data from Supplemental Information of publication",
         "elements": [
           "1",
           "2",
@@ -224,7 +248,7 @@
     "display_name": "3ZaPa-NR",
     "other_names": [],
     "description": "3ZaPa-NR",
-    "latest_version": "0",
+    "latest_version": "1",
     "basename": "3ZaPa-NR",
     "relpath": "",
     "family": "ranasinghe",
@@ -238,6 +262,30 @@
       "0": {
         "file_relpath": "3ZaPa-NR.0.table.json",
         "revdesc": "Data from the original Basis Set Exchange",
+        "elements": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      "1": {
+        "file_relpath": "3ZaPa-NR.1.table.json",
+        "revdesc": "Data from Supplemental Information of publication",
         "elements": [
           "1",
           "2",
@@ -358,7 +406,7 @@
     "display_name": "4ZaPa-NR",
     "other_names": [],
     "description": "4ZaPa-NR",
-    "latest_version": "0",
+    "latest_version": "1",
     "basename": "4ZaPa-NR",
     "relpath": "",
     "family": "ranasinghe",
@@ -372,6 +420,30 @@
       "0": {
         "file_relpath": "4ZaPa-NR.0.table.json",
         "revdesc": "Data from the original Basis Set Exchange",
+        "elements": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      "1": {
+        "file_relpath": "4ZaPa-NR.1.table.json",
+        "revdesc": "Data from Supplemental Information of publication",
         "elements": [
           "1",
           "2",
@@ -466,7 +538,7 @@
     "display_name": "5ZaPa-NR",
     "other_names": [],
     "description": "5ZaPa-NR",
-    "latest_version": "0",
+    "latest_version": "1",
     "basename": "5ZaPa-NR",
     "relpath": "",
     "family": "ranasinghe",
@@ -480,6 +552,30 @@
       "0": {
         "file_relpath": "5ZaPa-NR.0.table.json",
         "revdesc": "Data from the original Basis Set Exchange",
+        "elements": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      "1": {
+        "file_relpath": "5ZaPa-NR.1.table.json",
+        "revdesc": "Data from Supplemental Information of publication",
         "elements": [
           "1",
           "2",
@@ -1838,7 +1934,7 @@
     "display_name": "6ZaPa-NR",
     "other_names": [],
     "description": "6ZaPa-NR",
-    "latest_version": "0",
+    "latest_version": "1",
     "basename": "6ZaPa-NR",
     "relpath": "",
     "family": "ranasinghe",
@@ -1872,6 +1968,30 @@
           "17",
           "18"
         ]
+      },
+      "1": {
+        "file_relpath": "6ZaPa-NR.1.table.json",
+        "revdesc": "Data from Supplemental Information of publication",
+        "elements": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ]
       }
     }
   },
@@ -1879,7 +1999,7 @@
     "display_name": "7ZaPa-NR",
     "other_names": [],
     "description": "7ZaPa-NR",
-    "latest_version": "0",
+    "latest_version": "1",
     "basename": "7ZaPa-NR",
     "relpath": "",
     "family": "ranasinghe",
@@ -1904,6 +2024,30 @@
           "8",
           "9",
           "10"
+        ]
+      },
+      "1": {
+        "file_relpath": "7ZaPa-NR.1.table.json",
+        "revdesc": "Data from Supplemental Information of publication",
+        "elements": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
         ]
       }
     }
